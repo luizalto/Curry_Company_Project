@@ -47,8 +47,8 @@ O objetivo desse projeto e Criar graficos e/ou tabelas que exibam essas
 métricas da melhor forma possível para o CEO.
 
 # 2.Premissas assumidas para a análise. 
-1. A análise foi realizada com dades entre 11/02/2022 e 06/04/2022.
-2. Marktplace foi modelo de negócio assumido.
+1. A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
+2. Marktplace foi o modelo de negócio assumido.
 3. Os 3 principais visões de negócio foram: Visão transação de pedidos
 Visão restaurantes e Visão entregadores.
 
